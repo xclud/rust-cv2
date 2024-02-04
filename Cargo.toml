@@ -1,0 +1,11 @@
+[package]
+name = "cv2"
+version = "0.0.1"
+edition = "2021"
+description = "Computer Vision for Rust"
+license = "MIT"
+homepage = "https://pwa.ir"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
